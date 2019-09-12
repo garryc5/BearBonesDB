@@ -15,3 +15,8 @@ first you will need to require the model var Access_var = require('db/model_name
 -  Access_var.deleteByID(id_num) deletes obj with id of
 -  Access_var.save() save any changes to model if you remove t.save() from test and run it when you run test 2 it wont have the changes
 
+
+## plan to add relatesions between models soon
+## also plan to add a grabByKey
+
+
